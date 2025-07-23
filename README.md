@@ -6,3 +6,19 @@ This repository contains a complete implementation of a Data Warehouse and Analy
 
 ---
 
+📦 Project Requirements
+To run this project locally, you'll need:
+
+A relational database s
+
+SQL client 
+
+Git
+
+Python (optional, for scripting or automation)
+
+dbt or Airflow (optional, for transformation and scheduling)
+
+Power BI / Tableau / Looker (optional, for visualization)
+
+CSV files (provided in the data/raw/ directory)
